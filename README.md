@@ -1,4 +1,4 @@
-<img height="300px" width="1000px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shiv"/>
+
 
 <h1 align="center">Hi 👋, I'm Shiv Pratap Singh Yadav</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
