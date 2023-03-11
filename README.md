@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivprataps123&label=Profile%20views&color=0e75b6&style=flat" alt="shivprataps123" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
+- 🌱 I’m currently working at Techflitter Solutions as a **Frontend developer**
 
 - 👨‍💻 All of my projects are available at [https://shivprataps123.github.io](https://shivprataps123.github.io)
 
