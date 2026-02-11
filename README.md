@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **⚡ I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends!**
 
-- 📫 How to reach me **shivpratapsinghyadav38@gmail.com**
+- 📫 How to reach me **devshiv097@gmail.com**
 
 - 📄 Know about my experiences[(https://drive.google.com/file/d/1FDi6FTc3jF13LVBwpJlRNpdCgthyZ53k/view?usp=sharing](https://drive.google.com/file/d/1Rf3cdO74OC1JZ6rPqqQHLYXnX8LoLUrU/view?usp=sharing))
 
