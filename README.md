@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working in Ahmedabad as a **Frontend developer**
 
-- 👨‍💻 All of my projects are available at [https://shivprataps123.github.io](https://shivprataps123.github.io)
+- 👨‍💻 All of my projects are available at [https://shivprataps123.github.io](https://shivprataps123githubio.vercel.app/)
 
 - 💬 Ask me about **⚡ I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends!**
 
